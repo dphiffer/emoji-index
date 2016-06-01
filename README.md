@@ -53,4 +53,4 @@ This is only as complete as Emojipedia and emoji-cheat-sheet.com. For now I’d 
 
 ## What about Unicode 9.0 and Unicode 10.0?
 
-Seems too early at this point. But once 9.0 starts shipping on some actual platforms I'll update this repo.
+Seems too early at this point. But once [9.0](http://emojipedia.org/unicode-9.0/) starts shipping on some actual platforms I'll update this repo.
