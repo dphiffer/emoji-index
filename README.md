@@ -40,8 +40,8 @@ A developer-centric index of emoji based on information from [Emojipedia](http:/
 
 ## What is this for?
 
-* Easily convert plain text emoji like `:turtle:` to their emoji equivalent using the `shortcuts` property
-* Determine how widely a given emoji is supported based on its Unicode `since` property
+* Easily convert plain text like `:turtle:` to its emoji equivalent 🐢
+* Determine how recently a given emoji was introduced based on its Unicode `since` property
 
 ## Are these shortcuts standardized?
 
