@@ -5,8 +5,9 @@ A developer-centric index of emoji based on information from [Emojipedia](http:/
 ## What’s in here?
 
 * __emoji-index.json__: all the emojis from Unicode 1.1 to Unicode 8.0, with `:thumbsup:`-style shortcuts and reference URLs to Emojipedia
-* __emoji-lookup.json__: a barebones lookup hash for implementing emoji shortcuts
 * __emoji-pretty.json__: a pretty-printed version of emoji-index.json
+* __emoji-escaped.json__: emojis are escaped as strings (e.g., ⛵ becomes `\u26f5`)
+* __emoji-lookup.json__: a barebones lookup hash for implementing emoji shortcuts
 
 ## Some examples
 
