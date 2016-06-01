@@ -46,7 +46,7 @@ A developer-centric index of emoji based on information from [Emojipedia](http:/
 
 ## Are these shortcuts standardized?
 
-Not as far as I know, it seems they're pretty much being invented ad-hoc by the people creating the software that supports them. It's amazing there is as much coherence among the list of compatible products listed on [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/), but you can find places where the naming conventions diverge. For example `:poop:`, `:shit:`, and `:hankey:` all map onto the same emoji symbol.
+Not as far as I know, it seems they're pretty much being invented ad-hoc by the people creating the software that supports them. It's amazing there is as much coherence among the list of compatible products listed on [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/), but you can find places where the naming conventions diverge. For example `:poop:`, `:shit:`, and `:hankey:` all map onto the same 💩 emoji symbol.
 
 ## Is this complete?
 
