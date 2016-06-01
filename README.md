@@ -13,7 +13,7 @@ A developer-centric index of emoji based on information from [Emojipedia](http:/
 
 ### emoji-max.json
 
-```
+```json
 [{
 	"alt_names": [
 		"animal",
@@ -33,7 +33,7 @@ A developer-centric index of emoji based on information from [Emojipedia](http:/
 
 ### emoji-min.json
 
-```
+```json
 {
 	"cactus": "\ud83c\udf35"
 }
