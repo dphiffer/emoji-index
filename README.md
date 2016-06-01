@@ -15,19 +15,19 @@ A developer-centric index of emoji based on information from [Emojipedia](http:/
 
 ```json
 [{
+	"emoji": "🐢",
+	"title": "Turtle",
+	"url": "http:\/\/emojipedia.org\/turtle\/",
+	"since": "Unicode 6.0",
+	"shortcuts": [
+		"turtle"
+	],
 	"alt_names": [
 		"animal",
 		"tortoise",
 		"slow",
 		"nature"
-	],
-	"emoji": "🐢",
-	"shortcuts": [
-		"turtle"
-	],
-	"since": "Unicode 6.0",
-	"title": "Turtle",
-	"url": "http://emojipedia.org/turtle/"
+	]
 }]
 ```
 
