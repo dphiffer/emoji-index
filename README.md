@@ -55,3 +55,8 @@ This is only as complete as Emojipedia and emoji-cheat-sheet.com. For now I’d 
 ## What about Unicode 9.0 and Unicode 10.0?
 
 Seems too early at this point. But once [9.0](http://emojipedia.org/unicode-9.0/) starts shipping on some actual platforms I'll update this repo.
+
+## See also
+
+* [Unicode emoji specifications](http://www.unicode.org/Public/emoji/)
+* [Matthew Rothenberg's informative *How I built Emojitracker*](https://medium.com/@mroth/how-i-built-emojitracker-179cfd8238ac#.8j2uxstql), [Emojitracker itself](http://emojitracker.com/), and [the source code](https://github.com/mroth/emojitracker)
