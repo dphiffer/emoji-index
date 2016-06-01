@@ -21,7 +21,7 @@ A developer-centric index of emoji based on information from [Emojipedia](http:/
 		"slow",
 		"nature"
 	],
-	"emoji": "\ud83d\udc22",
+	"emoji": "🐢",
 	"shortcuts": [
 		"turtle"
 	],
@@ -35,7 +35,7 @@ A developer-centric index of emoji based on information from [Emojipedia](http:/
 
 ```json
 {
-	"cactus": "\ud83c\udf35"
+	"cactus": "🌵"
 }
 ```
 
